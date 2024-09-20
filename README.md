@@ -1,6 +1,6 @@
 # Nimoka-ModMenu
 
-Use the '[NimokaInjector.exe](https://github.com/n1m0k4/Nimoka-Injector/releases/latest)' to inject the NimokaModMenu.dll file to the game.
+Usa el '[NimokaInjector.exe](https://github.com/n1m0k4/Nimoka-Injector/releases/latest)' para inyectar el archivo NimokaModMenu.dll al juego.
 
 ES [!] ***ESTE MOD MENÚ NO FUNCIONA PARA GTA 5 ONLINE AUNQUE TENGA OPCIONES DE GTA ONLINE, SOLO PUEDES USARLO ESTRICTAMENTE PARA EL MODO HISTORIA, SI INTENTAS USARLO EN GTA 5 ONLINE, EL JUEGO NO TE VA A DEJAR JUGAR*** [!]
 
