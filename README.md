@@ -1,4 +1,4 @@
-# Nimoka-ModMenu
+# Nimoka-ModMenu BETA
 
 Usa el '[NimokaInjector.exe](https://github.com/n1m0k4/Nimoka-Injector/releases/latest)' para inyectar el archivo NimokaModMenu.dll al juego.
 
